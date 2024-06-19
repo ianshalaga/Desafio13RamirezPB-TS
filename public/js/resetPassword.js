@@ -12,9 +12,9 @@ form.addEventListener("submit", (e) => {
             "Content-Type": "application/json",
         },
     })
-    // .then((response) => {
-    //     if (response.status === 201) {
-    //         window.location.replace("/login");
-    //     }
-    // });
+        .then((response) => {
+            if (response.status === 200) {
+                window.location.replace("/login");
+            }
+        });
 });
