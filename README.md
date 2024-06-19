@@ -6,8 +6,8 @@ Treceavo desafío entregable del curso de Programación Backend de CoderHouse.
 
 Realizar la configuración necesaria para tener documentado tu proyecto final a partir de **Swagger**.
 
-- Se debe tener documentado el módulo de productos.
-- Se debe tener documentado el módulo de carrito.
+- [x] Se debe tener documentado el módulo de productos.
+- [x] Se debe tener documentado el módulo de carrito.
 - [x] No realizar documentación de sesiones.
 
 ## Entrega
